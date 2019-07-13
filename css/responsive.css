@@ -1,0 +1,13 @@
+@media screen and (max-width: 950px) {
+    .bottom {
+        display: inline;
+    }
+
+    .hard_align {
+        margin-left: 39%;
+    }
+
+    .center {
+        text-align: left; 
+    };
+};
