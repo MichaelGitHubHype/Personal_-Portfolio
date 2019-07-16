@@ -96,6 +96,19 @@ p {
     background: url("../images/cards2.png");
 }
 
+.arcade {
+    width: 310px;
+    height: 200px;
+    background: url("../images/arcade1.png");
+}
+
+
+.arcade:hover {
+    width: 310px;
+    height: 200px;
+    background: url("../images/arcade2.png");
+}
+
 .center {
   text-align: center;
   margin-right: 10px;
@@ -145,11 +158,6 @@ p {
   width: 33.33%;
   padding: 5px;
 }
-
-
-
-
-
 
 .faded {
     font-size: 130%;
